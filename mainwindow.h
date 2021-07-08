@@ -50,7 +50,6 @@ private slots:
 private:
     Ui::MainWindow *ui;
     double xBegin, xEnd, X;
-    int  kolPoint;
     QVector<double> x,y;
 };
 #endif // MAINWINDOW_H
